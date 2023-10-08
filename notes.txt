@@ -1,0 +1,3 @@
+=> Adding shadows
+  - Android - elevation
+  - iOS -> shadowColor, shadowOpacity, shadowRadius, shadowOffset
